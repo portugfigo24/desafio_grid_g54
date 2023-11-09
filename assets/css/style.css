@@ -64,14 +64,14 @@ body {
     align-items: center;
     width: 20%;
     color: gray;
-    font-size: 11px;
+    font-size: 15px;
 }
 
 #filtro {
     display: flex;
     justify-content: start;
     align-items: center;
-    font-size: 13px;
+    font-size: 15px;
     width: 80%;
 }
 
@@ -113,7 +113,7 @@ body {
 .precio_prod {
     display: flex;
     font-family: 'Roboto';
-    font-size: 12px;
+    font-size: 14px;
     color: #BEC1BB;
 }
 
